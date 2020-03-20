@@ -43,7 +43,7 @@ Možda, ali ne automatski, koristite ove podatke za provjeru kvalitete OpenStree
 #### Podatci sa ZIPP Geoportala
 
 | Gradska uprava | Broj elemenata |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 | druge_javne_ustanove | 6 |
 | gradsko_tijelo | 98 |
 | gradsko_trgovacko_drustvo | 34 |
@@ -53,7 +53,7 @@ Možda, ali ne automatski, koristite ove podatke za provjeru kvalitete OpenStree
 
 
 | Komunalna usluga | Broj elemenata |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 | gradska_trznica | 31 |
 | gradsko_groblje | 29 |
 | gradsko_groblje_point | 29 |
@@ -62,7 +62,7 @@ Možda, ali ne automatski, koristite ove podatke za provjeru kvalitete OpenStree
 
 
 | Kultura | Broj elemenata |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 | centar_za_kulturu_i_narodno_sveuciliste | 19 |
 | galerija | 67 |
 | kazaliste | 17 |
@@ -73,7 +73,7 @@ Možda, ali ne automatski, koristite ove podatke za provjeru kvalitete OpenStree
 
 
 | Obrazovanje | Broj elemenata |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 | djecji_vrtic | 329 |
 | obrazovanje_odraslih | 2 |
 | osnovna_skola | 175 |
@@ -87,7 +87,7 @@ Možda, ali ne automatski, koristite ove podatke za provjeru kvalitete OpenStree
 
 
 | Priroda i okoliš | Broj elemenata |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 | gradski_vrt | 13 |
 | gradski_vrt_point | 13 |
 | javne_povrsine_za_pse | 72 |
@@ -96,7 +96,7 @@ Možda, ali ne automatski, koristite ove podatke za provjeru kvalitete OpenStree
 
 
 | Promet | Broj elemenata |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 | biciklisticka_staza | 98 |
 | javna_garaza | 34 |
 | javna_parkiralista_za_bicikle | 111 |
@@ -105,7 +105,7 @@ Možda, ali ne automatski, koristite ove podatke za provjeru kvalitete OpenStree
 
 
 | Socijalna zaštita | Broj elemenata |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 | centar_za_socijalnu_skrb | 17 |
 | dom_za_djecu | 9 |
 | dom_za_starije | 99 |
@@ -117,12 +117,12 @@ Možda, ali ne automatski, koristite ove podatke za provjeru kvalitete OpenStree
 
 
 | Sport i rekreacija | Broj elemenata |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 | sportski_objekti_vrsta | 206 |
 
 
 | Zdravstvo | Broj elemenata |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 | dom_zdravlja | 132 |
 | dom_zdravlja_hitna | 9 |
 | hzzo | 9 |
