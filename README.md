@@ -1,5 +1,6 @@
 # osm-zipp-2018
-Ovaj set podataka sadrži vektorske podatke Geoportala zagrebačke infrastrukture prostornih podataka - ZIPP
+
+## Hrvatski
 
 Uvod
 -------------------
@@ -130,7 +131,7 @@ Možda, ali ne automatski, koristite ove podatke za provjeru kvalitete OpenStree
 | ljekarna_gradska_domska | 53 |
 | zdravstvene_ustanove | 44 |
 
-
+## English
 
 Introduction
 -------------------
