@@ -28,7 +28,7 @@ Podatke održava [Grad Zagreb, Gradski ured za strategijsko planiranje i razvoj 
 #### Koja je kvaliteta podataka?
 Podaci su dostavljeni kakvi jesu, mogu sadržavati greške te budite pažljivi pri korištenju podataka. Gradski ured za strategijsko planiranje i razvoj Grada može provjeriti i prihvatiti sve greške koje uočimo u njihovim podacima.
 
-### Koji je koordinatni sustav?
+#### Koji je koordinatni sustav?
 EPSG: 4326
 
 #### Hoće li biti još podataka?
@@ -159,7 +159,7 @@ Geoportal vector data is maintained by [City of Zagreb, City Office for the Stra
 #### How good are the data?
 Data is provided as is, there may be errors so be careful using the data. City of Zagreb may review and accept all errors we find in their data.
 
-### What is the coordinate reference system?
+#### What is the coordinate reference system?
 EPSG: 4326
 
 #### Will there be more data coming?
