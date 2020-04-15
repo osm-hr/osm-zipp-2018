@@ -132,6 +132,8 @@ Možda, ali ne automatski, koristite ove podatke za provjeru kvalitete OpenStree
 | ljekarna_gradska_domska | 53 |
 | zdravstvene_ustanove | 44 |
 
+![Svi poi sa Geoportala](geoportal-zipp.png)
+
 
 ### Topografska osnova ZIPP Geoportala
 
@@ -179,6 +181,11 @@ For easier manipulation landuses are split in to 16 smaller files based on categ
 | landuse-lt14 | 31 |
 | landuse-lt15 | 138 |
 | landuse-lt16 | 11 |
+
+![line-water-traffic pregledna situacija](topo-line-water-traffic-zipp.png)
+
+
+![buildings isječak iz grada](topo-buildings-zipp)
 
 
 ## English
