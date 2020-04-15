@@ -4,7 +4,7 @@
 
 Uvod
 -------------------
-Ovaj set podataka sadrži vektorske podatke Geoportala zagrebačke infrastrukture prostornih podataka - ZIPP.
+Ovaj set podataka sadrži vektorske i topografske podatke Geoportala zagrebačke infrastrukture prostornih podataka - ZIPP.
 
 Licenca
 -------------------
@@ -16,7 +16,7 @@ Prilikom javne objave materijala obvezno je naznačiti izvor - [Grad Zagreb, Gra
 
 ## FAQ
 #### Što podaci sadrže:
-Vektorske podatke sa geoportala Gradskog ureda za strategijsko planiranje i razvoj Grada 
+Vektorske i topografske podatke sa geoportala Gradskog ureda za strategijsko planiranje i razvoj Grada 
 
 #### Što je GeoJson format?
 GeoJSON je format za kodiranje raznih geografskih podatkovnih struktura.
@@ -32,7 +32,7 @@ Podaci su dostavljeni kakvi jesu, mogu sadržavati greške te budite pažljivi p
 EPSG: 4326
 
 #### Hoće li biti još podataka?
-Da
+Moguća je ažurirana verzija ovih setova podataka.
 
 #### Zašto su podatci objavljeni?
 Hrvoje Bogner tražio je [Grad Zagreb, Gradski ured za strategijsko planiranje i razvoj Grada](https://geoportal.zagreb.hr/) pravo korištenja podataka za potrebe OpenStreetMap projekts.
@@ -41,7 +41,8 @@ Hrvoje Bogner tražio je [Grad Zagreb, Gradski ured za strategijsko planiranje i
 Možda, ali ne automatski, koristite ove podatke za provjeru kvalitete OpenStreetMap podataka te integraciju oba seta podataka radi bolje prostorne i informacijske komponente elemenata. Nikadn nemojte pregaziti postojeće podatke koje su prijašnji korisnici mukotrpno skupljali, rađe provjerite njihovu kvalitetu i nadopunite ih. Provjerite kvaliteru lokalnih podataka i raspravite bilo kakav import sa [lokalnom zajednicom](https://lists.openstreetmap.org/listinfo/talk-hr). Uvijek sljedite [OSM pravila za importe](https://wiki.openstreetmap.org/wiki/Import/Guidelines).
 
 
-#### Podatci sa ZIPP Geoportala
+### Podatci sa ZIPP Geoportala
+
 
 | Gradska uprava | Broj elemenata |
 | ------------- |:-------------:|
@@ -131,11 +132,60 @@ Možda, ali ne automatski, koristite ove podatke za provjeru kvalitete OpenStree
 | ljekarna_gradska_domska | 53 |
 | zdravstvene_ustanove | 44 |
 
+
+### Topografska osnova ZIPP Geoportala
+
+
+| Topografska osnova | Broj elemenata |
+| ------------- |:-------------:|
+| lines | 114 |
+| waters | 1109 |
+| traffic | 11157 |
+| buildings | 273884 |
+| landuse | 331626 |
+
+Radi lakšeg baratanja zgrade su razvojene na 6 manjih dokumenata baziranih po kategorijama.
+For easier manipulation buildings are split in to 6 smaller files based on categories.
+
+
+| Buildings | Broj elemenata |
+| ------------- |:-------------:|
+| buildings-ot1-stambeni_i_mjesoviti_objekti | 133629 |
+| buildings-ot2-javni_objekti | 2848 |
+| buildings-ot3-gospodarski_objekti | 19872 |
+| buildings-ot4-kulturno-povijesni_objekti | 52 |
+| buildings-ot5-vjerski_objekti | 444 |
+| buildings-ot6-ostali_objekti | 116908 |
+| buildings-ot7-objekti_posebne_namjene | 131 |
+
+Radi lakšeg baratanja površine su razvojene na 16 manjih dokumenata baziranih po kategorijama.
+For easier manipulation landuses are split in to 16 smaller files based on categories.
+
+| Landuse | Broj elemenata |
+| ------------- |:-------------:|
+| landuse-lt01 | 6195 |
+| landuse-lt02 | 15331 |
+| landuse-lt03 | 4962 |
+| landuse-lt04 | 519 |
+| landuse-lt05 | 3195 |
+| landuse-lt06 | 2470 |
+| landuse-lt07 | 4328 |
+| landuse-lt08 | 62 |
+| landuse-lt09 | 7940 |
+| landuse-lt10 | 846 |
+| landuse-lt11 | 26 |
+| landuse-lt12 | 11688 |
+| landuse-lt13 | 273884 |
+| landuse-lt14 | 31 |
+| landuse-lt15 | 138 |
+| landuse-lt16 | 11 |
+
+
 ## English
 
 Introduction
 -------------------
-This dataset contains vector data from Geoportal of Zagreb infrastructure of spatial data - ZIPP. 
+This dataset contains vector and topografical data from Geoportal of Zagreb infrastructure of spatial data - ZIPP. 
 
 License
 -------------------
@@ -147,7 +197,7 @@ When publishing the material, it is obligatory to attribute the source - [City o
 
 ## FAQ
 #### What the data include:
-Vector data from [City of Zagreb, City Office for the Strategic Planning and Development of the City](https://geoportal.zagreb.hr/) Geoportal 
+Vector and topografical data from [City of Zagreb, City Office for the Strategic Planning and Development of the City](https://geoportal.zagreb.hr/) Geoportal 
 
 #### What is the GeoJson format?
 GeoJSON is a format for encoding a variety of geographic data structures. 
@@ -163,7 +213,7 @@ Data is provided as is, there may be errors so be careful using the data. City o
 EPSG: 4326
 
 #### Will there be more data coming?
-Yes
+Possible update of these data sets.
 
 #### Why is the data being released?
 Hrvoje Bogner asked [City of Zagreb, City Office for the Strategic Planning and Development of the City](https://geoportal.zagreb.hr/) for the rights to use their data for OpenStreetMap project.
