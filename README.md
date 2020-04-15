@@ -185,7 +185,7 @@ For easier manipulation landuses are split in to 16 smaller files based on categ
 ![line-water-traffic pregledna situacija](topo-line-water-traffic-zipp.png)
 
 
-![buildings isječak iz grada](topo-buildings-zipp)
+![buildings isječak iz grada](topo-buildings-zipp.png)
 
 
 ## English
