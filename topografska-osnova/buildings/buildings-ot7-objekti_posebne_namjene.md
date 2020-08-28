@@ -1,0 +1,1 @@
+Get it [here](https://data.osm-hr.org/zipp-2018/topografska-osnova/buildings/buildings-ot7-objekti_posebne_namjene.zip) ~24KB

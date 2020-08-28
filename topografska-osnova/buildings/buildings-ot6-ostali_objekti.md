@@ -1,0 +1,1 @@
+Get it [here](https://data.osm-hr.org/zipp-2018/topografska-osnova/buildings/buildings-ot6-ostali_objekti.zip) ~14MB

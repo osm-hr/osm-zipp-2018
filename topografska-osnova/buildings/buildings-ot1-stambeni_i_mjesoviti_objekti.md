@@ -1,0 +1,1 @@
+Get it [here](https://data.osm-hr.org/zipp-2018/topografska-osnova/buildings/buildings-ot1-stambeni_i_mjesoviti_objekti.zip) ~19MB
